@@ -67,4 +67,3 @@ if n == 3:
     aberrations = simplify(aberrations)
     #aberrations = aberrations.subs(xn,1)
 print(aberrations)
-
